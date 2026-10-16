@@ -33,7 +33,7 @@ export const services: Service[] = [
   { title: 'Hand & Foot Care', category: 'Wellness & Care', description: 'A simple care ritual with a soak, grooming and a considered finish.', duration: 60, price: 1400 },
 ];
 export const gallery = [
-  { src: 'beauti-box-studio.png', title: 'THE BEAUTI BOX STUDIO', caption: 'Actual studio · Supplied photograph', className: 'gallery-actual' },
+  { src: 'hero-beauty.png', title: 'THE BEAUTI BOX STUDIO', caption: 'Actual studio · Supplied photograph', className: 'gallery-actual' },
   { src: 'interior.jpg', title: 'A MOMENT OF CALM', caption: 'Illustrative atmosphere', className: 'gallery-interior' },
   { src: 'relaxation.jpg', title: 'SPACE TO UNWIND', caption: 'Illustrative atmosphere', className: 'gallery-relaxation' },
   { src: 'hair.jpg', title: 'THE FINISHING TOUCH', caption: 'Illustrative treatment', className: 'gallery-detail' },
